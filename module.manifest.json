@@ -1,0 +1,11 @@
+{
+  "moduleId": "webwaka_integrations_partners",
+  "class": "integration",
+  "version": "0.1.0",
+  "capabilities": [],
+  "dependencies": [],
+  "metadata": {
+    "repository": "https://github.com/changerplanet/webwaka-integrations-partners",
+    "created": "2026-01-20"
+  }
+}
